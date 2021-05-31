@@ -8,6 +8,7 @@
 
 
 function convertFormToJSON(){
+       
     var json = {"punchOutDetails":{
   "BuyerCode": "441003",
   "BuyerUrl": "https://smartdev.gep.com/Catalog/PageLoad/Indexdev?oloc=108&c=NDQyMjQ10&OE=2258&PunchoutCartReqId=0&PartnerConfigId=3779#/catalog/cart",
@@ -48,6 +49,7 @@ function convertFormToJSON(){
   }
 }
 };
+     document.getElementById('text-input-value').value=json;
 
     return json;
 }
