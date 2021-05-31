@@ -50,7 +50,5 @@ function convertFormToJSON(){
   }
 }
 };
-     document.getElementById('text-input-value').value=json;
-
-    return json;
+   document.getElementById('text-input-value').value=JSON.stringify(json);
 }
