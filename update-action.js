@@ -8,7 +8,6 @@
 
 
 function convertFormToJSON(){
-     alert("Hello, World");
        
     var json = {"punchOutDetails":{
   "BuyerCode": "441003",
