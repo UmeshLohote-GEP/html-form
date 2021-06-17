@@ -6,6 +6,14 @@
     document.getElementById('url').addEventListener('input', updateForm);
 })();
 
+(() => {
+    const updateForm = (event) => {
+        const form = document.getElementById('form2');
+        form.action = event.target.value || form.action;
+    }
+    document.getElementById('url2').addEventListener('input', updateForm);
+})();
+
 
 function convertFormToJSON(){
        
