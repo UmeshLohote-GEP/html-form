@@ -29,73 +29,27 @@ function convertFormToJSON(){
     "punchOutDetails": {
         "extrinsic": [
             {
-                "key": "RequestID",
-                "dynamicValue": 0,
-                "value": "5826623"
+                "key": "ThirtaTest",
+                "dynamicValue": 4,
+                "value": "q"
             },
             {
-                "key": "FirstName",
-                "dynamicValue": 0,
-                "value": "Lex"
-            },
-            {
-                "key": "LastName",
-                "dynamicValue": 0,
-                "value": "Luthor"
-            },
-            {
-                "key": "Email",
-                "dynamicValue": 0,
-                "value": "amazon.business@gep.com"
-            },
-            {
-                "key": "UserEmail",
-                "dynamicValue": 0,
-                "value": "ayushi.nigam@gep.com"
-            },
-            {
-                "key": "DeploymentMode",
-                "dynamicValue": 0,
-                "value": "test"
-            },
-            {
-                "key": "DebugOption",
-                "dynamicValue": 0,
-                "value": "64"
-            },
-            {
-                "key": "UniqueName",
-                "dynamicValue": 0,
-                "value": "Penelope Admin"
+                "key": "obo ThirtaTest",
+                "dynamicValue": null,
+                "value": ""
             }
         ],
-        "clientPartnerCode": "PC-2023.000281",
-        "buyerCode": "70022033",
-        "failureUrl": "https://nexxeqc.gep.com/Antero/v3/#/catalog-cart",
-        "referenceId": "e3ea95c8-0e1f-4fac-a4cc-095ba6448edb",
+        "clientPartnerCode": "PC-2022.008748",
+        "buyerCode": "197250",
+        "failureUrl": "https://nexxeqc.gep.com/BOFA/v3/#/catalog-cart",
+        "referenceId": "a5e4d809-c4bf-42ba-a89d-efeee40ed242",
         "redirectionURL": null,
-        "selectedItem": {
-            "supplierPartId": "B0CC13CZ8H"
-        },
-        "shipTo": {
-            "addressId": "572358724",
-            "name": "SyncTest2",
-            "deliverTo": "",
-            "addressLine1": "Line1",
-            "addressLine2": "",
-            "addressLine3": "",
-            "city": "Kansas",
-            "state": "Alberta",
-            "postalCode": "1234",
-            "country": "Canada",
-            "countryCode": "CA",
-            "companyCode": "ALL",
-            "street": null
-        },
-        "StateId": "7002203304000001",
-        "JWT": "becb*e6xHpuTmjA7*cE31VTbaSD5eqvN14Vwr0A*6Ae93XsbLOsyaH1BYDKIErSsem27lmk5WN8MhcMjPwUQSs0y587PrIvO4fqwmY5flB0ea4WneLfRX0qpor7J9eEcQlDtyeED*2Ht9iBUVUPxwGip2Xpb8a*93TPtqg6+plnTb0AmfFs5re4EEYMxW2hFUF2RCxMc1ycqbFPSaTRyzQtkoVh4uTNZbLghQxoB7bkZxtj37+Wu0rVhtvykcnr5IoqEOK*Hsj13cwAbH53JchFmjXqeV4i+vNfMTKePMM0*ApShD2i6kvZNPwyptPeAXMVQ7UaEJC3rb3XxhyCnd3cHJ*SVpvU+SYfuqRcWZBSqQUl4Ui96MFL398czTFVHrBIePsPKLJc8KW9XsPoQxUVyjVOx9JYoP28mz8echDDFQfny8*ZLRvaNB4NpAh3OYiYRAlmz3weA4PyXBIVT2BbJgRL+Mym+fkocRhNWuDmLLsQt5jhCvh7V1bgZEIAYJb9dQviWO8iRafac*Pw524aNGAfwV2R+dseL0DzLn7kYr3ZhcupVDm9KEu+8QduhSB0Xp6AyF6Sr+C2zZfNUI7uPp0fMGspGOMdUZqAd2it8*mrJjfWpjk+y7dleXXRlSmMF+FLmL+BDHqxOW98RMuVMCHQxxH*BzDo3+likHcc7EpkqfF5eAxIpWgYrlMbbBdHFt3vx5apaQA1LAiL53Hb886dIZ7cNG5rOsbFW*ici1p3aMMFqUpmJpLffHjmUcatG4V0kB4NJaxniH2CvQkBu8LPCxVSPpYjaGgHx6m*d9*tK+cjZXbNl5t53vG3lM8Pr0JW2pChsjA7ce6wYrFrZCXPWwJsaLUJV+MQO*Cv1eUWKMQ7sFNcQ57ClYs4CswNeXH6OoLlhFGtjGCWlWzWGymhhFNttdJyLCfm10e*dM7O7WRTSKDGHv72FsaPC4Pepin9t1Ys4N9kjnZCHFgi46PonDo*jLbZhkrEqWGYdRcOoasf0wzooLoxeQGhG1RHzjLXT+zUB6GyCzARqh9Mdf9LI68EO3kJedgAmbzKwB39rPEPWCQjDPslpOKb2yqZ*tkGYtGn2IBf7r3egSElGMUcpDAUVNoTt5Xhfc3aUTMapDSFW2HCfFSh0RId*4jDTw*kK5CSFawfiD9hX78oIZKq5w7CgnNYwJ*jopu0o2w*c3UOXDDj1Ybpd1ZpXlH4EBOP*OBm4571yy80*+*Pb42QvvTEqU2CH7lCGbR02HQM1vq6RXMPFEDDedW+cyLslzT5LAEAHJuPF2UoAu2rPth49oXKzMK6TVKT4BK0YKbFR7fyH0tgfG+zBlzbye9UMeY9orqGhvgTEKMiHmBMb6f590M0TwWoVRkGlfq1lGy8rLfLqIir*chzm6Uzv26Jx4kXCq0eYodyXpvqVNHD7Vap+3VpBB3RybvUjqyNBoolpC82Jgz7sCmRbXII77E18+1MRWuo1qQYjHXNnMRurpZGxLQKoEqsSC3zgjDHzZiHSuQI3DoErHoic0RMpu3uj0sK*mJCVbUou+CMAG+P1oFmZu5vU5L3PvqB9PzM=",
+        "selectedItem": null,
+        "shipTo": null,
+        "StateId": "1972500040000001",
+        "JWT": "becb*e6xHpuTmjA7*cE31VTbaSD5eqvN14Vwr0A*6Ae93XsbLOsyaH1BYDKIErSs8vBZTwlTikNlywdaop7EYOM1t28yHcLDHTbeOoe8J8thM25qGhC0TrIXFCxvHd+To9xTHjVQNjLH1Zp3uNk7oN+nFZnKtylGkD5kPz+Pg+jzON9Y3sIB8tBoQoYOHa9uYeeH99UYM6OnNzHQnirckO72ofxtiJruIxxeDLlmZrIcvEmHWbP+6GqdLEUSfM0lZ*WWzp2cuLc1d4fR7B1p2c+KVV1Tae3YK*jmwVmopXE7bHF74JZsc7NZ*sVYtEaB+Tt*mwJkk*F3M+yHSpNF0OsluZ69465in0mJdqgcJ2DWKSocpmSGr5+2mJj1UAsK7PAPCFgIcDaqLn1FKjGQrnpXY7Mio555my56TipD1G8YepZpNQ+p9JTHIMTzr5ZS6ynscpo95j8PdT4fMDC1bW9CsPfJZhCfL+6pRJ7TRG7LLjhY*hkSayBxj50V4Ao7xQGJ2O1UAlXZ4fsbPmvSsFgw9LbQoYl6vnRVSXebVuwr9tPaGlMt17MyqI+*1SqiI0qN7bwUyqbpFBzMItCnGf2IJdR*SbNU9Vqm8tvyRZEYKdzthM8DzbOlU8qf4PEPv2SiP5+uMMap4dqMCgZTyqnf74XCS3otgFj+hF8OJzMzcNQ*0vJelVBXgxxuuwBcWOChnYPdP2dLIw+GeM6jc+YSfLi5Y6EwQUFKfFV77lzE1eJarbzwPiazJ79Imt37py+gbJCkLMthZpTkvi4L*Ubtw1eEu3BSOyYXCEgTsP0JcB5AEEZoo5hle3RvIwC1YL+kiaUvpYF6updHwASCTkh0TbF1sHtV8cwKR*dqVnFuxn9oVaeR756+E2SCDrwdfdvvyU8ZDiYBrFxEOb643DThqPamOAmujGTJqwMuS9tSCb9wWDBcz400iTQnEJnfJ46BhLHJoqV7ftX+4mXFbCSnfVY1ajz3aBLL6ph789kIWJB8ck5G+2U6d0tG6Fc0C2NJTaBebkN*8Q52wXabSPKVg+gCO+FSHqZSb5yVVQBKIXt4NoSmel53PX40DZDCVadcYa5IYXohfS73aLXUFbIs0DITWbMvruiNwQP0KPUog3zNjq4*p1RZkzd2YgZq48CjvEaoyuPYYcHvYI9nwe696etGhXytJr6PydwOYQGmcFu8Dc4epoYX3GfwP7cUpSIhSRJLEyXFqf+VCXP4pOow0ahanDRtv0oTCEBF5*UtVlPVvYzcTlLFTMH+nVclaJtx4sZDLcvqcA36OBHdkLIeqEr7tHGWFc+FDV5VNRnhELuS1T9l41S5H9l1lQ5J0t1yiL*soT4ZaXnv2iGb7gEvvBIdIesBty9xyvxWTE0m+1SzcOZJK9j5Tsw*wrZrhud5M5yusAB0OZve+Pw*y+k+fIg7F*iWrPCSO+FRmeCXQnV6HLc6feawwhgK7F2l34Zp*+l1JsZGfqQQtAjp20Km9E9sx5gh1PXhZn5aD22XD9A5s5Jo8lnoqNWaOT1Gr4RB4hPLQp4q467h8Rkw+ZdzCPLAtPkTTu35qPRnnIKChmvLmdJtCUmV+PAcJedO",
         "operation": "create",
-        "buyerCookie": "e3ea95c8-0e1f-4fac-a4cc-095ba6448edb"
+        "buyerCookie": "a5e4d809-c4bf-42ba-a89d-efeee40ed242"
     }
 };
    document.getElementById('text-input-value').value=JSON.stringify(json);
