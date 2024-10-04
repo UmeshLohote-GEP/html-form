@@ -26,31 +26,55 @@
 function convertFormToJSON(){
        
     var json = {
-    "punchOutDetails": {
-        "extrinsic": [
-            {
-                "key": "ThirtaTest",
-                "dynamicValue": 4,
-                "value": "q"
-            },
-            {
-                "key": "obo ThirtaTest",
-                "dynamicValue": null,
-                "value": ""
-            }
-        ],
-        "clientPartnerCode": "PC-2022.008748",
-        "buyerCode": "197250",
-        "failureUrl": "https://nexxeqc.gep.com/BOFA/v3/#/catalog-cart",
-        "referenceId": "a5e4d809-c4bf-42ba-a89d-efeee40ed242",
-        "redirectionURL": null,
-        "selectedItem": null,
-        "shipTo": null,
-        "StateId": "1972500040000001",
-        "JWT": "becb*e6xHpuTmjA7*cE31VTbaSD5eqvN14Vwr0A*6Ae93XsbLOsyaH1BYDKIErSs8vBZTwlTikNlywdaop7EYOM1t28yHcLDHTbeOoe8J8thM25qGhC0TrIXFCxvHd+To9xTHjVQNjLH1Zp3uNk7oN+nFZnKtylGkD5kPz+Pg+jzON9Y3sIB8tBoQoYOHa9uYeeH99UYM6OnNzHQnirckO72ofxtiJruIxxeDLlmZrIcvEmHWbP+6GqdLEUSfM0lZ*WWzp2cuLc1d4fR7B1p2c+KVV1Tae3YK*jmwVmopXE7bHF74JZsc7NZ*sVYtEaB+Tt*mwJkk*F3M+yHSpNF0OsluZ69465in0mJdqgcJ2DWKSocpmSGr5+2mJj1UAsK7PAPCFgIcDaqLn1FKjGQrnpXY7Mio555my56TipD1G8YepZpNQ+p9JTHIMTzr5ZS6ynscpo95j8PdT4fMDC1bW9CsPfJZhCfL+6pRJ7TRG7LLjhY*hkSayBxj50V4Ao7xQGJ2O1UAlXZ4fsbPmvSsFgw9LbQoYl6vnRVSXebVuwr9tPaGlMt17MyqI+*1SqiI0qN7bwUyqbpFBzMItCnGf2IJdR*SbNU9Vqm8tvyRZEYKdzthM8DzbOlU8qf4PEPv2SiP5+uMMap4dqMCgZTyqnf74XCS3otgFj+hF8OJzMzcNQ*0vJelVBXgxxuuwBcWOChnYPdP2dLIw+GeM6jc+YSfLi5Y6EwQUFKfFV77lzE1eJarbzwPiazJ79Imt37py+gbJCkLMthZpTkvi4L*Ubtw1eEu3BSOyYXCEgTsP0JcB5AEEZoo5hle3RvIwC1YL+kiaUvpYF6updHwASCTkh0TbF1sHtV8cwKR*dqVnFuxn9oVaeR756+E2SCDrwdfdvvyU8ZDiYBrFxEOb643DThqPamOAmujGTJqwMuS9tSCb9wWDBcz400iTQnEJnfJ46BhLHJoqV7ftX+4mXFbCSnfVY1ajz3aBLL6ph789kIWJB8ck5G+2U6d0tG6Fc0C2NJTaBebkN*8Q52wXabSPKVg+gCO+FSHqZSb5yVVQBKIXt4NoSmel53PX40DZDCVadcYa5IYXohfS73aLXUFbIs0DITWbMvruiNwQP0KPUog3zNjq4*p1RZkzd2YgZq48CjvEaoyuPYYcHvYI9nwe696etGhXytJr6PydwOYQGmcFu8Dc4epoYX3GfwP7cUpSIhSRJLEyXFqf+VCXP4pOow0ahanDRtv0oTCEBF5*UtVlPVvYzcTlLFTMH+nVclaJtx4sZDLcvqcA36OBHdkLIeqEr7tHGWFc+FDV5VNRnhELuS1T9l41S5H9l1lQ5J0t1yiL*soT4ZaXnv2iGb7gEvvBIdIesBty9xyvxWTE0m+1SzcOZJK9j5Tsw*wrZrhud5M5yusAB0OZve+Pw*y+k+fIg7F*iWrPCSO+FRmeCXQnV6HLc6feawwhgK7F2l34Zp*+l1JsZGfqQQtAjp20Km9E9sx5gh1PXhZn5aD22XD9A5s5Jo8lnoqNWaOT1Gr4RB4hPLQp4q467h8Rkw+ZdzCPLAtPkTTu35qPRnnIKChmvLmdJtCUmV+PAcJedO",
-        "operation": "create",
-        "buyerCookie": "a5e4d809-c4bf-42ba-a89d-efeee40ed242"
-    }
+  "punchOutDetails": {
+    "extrinsic": [
+      {
+        "key": "FullName",
+        "dynamicValue": 1,
+        "value": "ReqPO_UAT_Auto_P2P Requester11"
+      },
+      {
+        "key": "UserEmail",
+        "dynamicValue": 2,
+        "value": "Leoautomation1@gep.com"
+      },
+      {
+        "key": "obo FullName",
+        "dynamicValue": null,
+        "value": ""
+      },
+      {
+        "key": "obo UserEmail",
+        "dynamicValue": null,
+        "value": ""
+      }
+    ],
+    "clientPartnerCode": "294",
+    "buyerCode": "70022010",
+    "failureUrl": "https://nexxeuat.gep.com/UATBOFA3/v3/#/catalog-cart",
+    "referenceId": "2dedaf93-a4ee-4d92-ae43-63664f7e2de5",
+    "redirectionURL": null,
+    "selectedItem": null,
+    "shipTo": {
+      "addressId": "0",
+      "name": "",
+      "deliverTo": "",
+      "addressLine1": null,
+      "addressLine2": null,
+      "addressLine3": null,
+      "city": null,
+      "state": null,
+      "postalCode": null,
+      "country": null,
+      "countryCode": null,
+      "companyCode": null,
+      "street": null
+    },
+    "StateId": "7002201004343712",
+    "JWT": "MnkZGiVSOb1mekotlSzE9GsJqoxecvLLVlzUCChfAYp5C2z6QfMNt2oCM76sNFazGtjBM5eqWSpdFMGOgH8o2FFKP+c0Xq4HQ7NFUbe1OLuREjDwUcODyml7xERUXT62sLmaYU8esSHM5ZUj2nPNSfhdkIl1F8h1aoZ9seQXga+O172Ph5N88GPKcDDlMEr69ydGEfRYP6k5ree4hYvQUf6nw6QZ1jzI3yxvDGgLw0d7KMlBGI7hlnEkjyRIGUQNIW5awnlmrtFjAENse4cgLKR4NBUPplJl99FzIAygIYFOVLsMG3GLdIlveEbtyIPs2jb9ycSXpRXm7nfLakJReFgqp14zFjcSSnyMlyYm5hRw4dUGEbmG7rnjiinamjOCU8RoIm9+EBySpvVK35lAluzLwrh77FiUubdrwjE6tBGWawRN8i1ghj5qDEzNpdErYYSTmtJDUESZvOoKKNy4fQa39t++GYorqDERhUUelPHfepy3**HIfawMlne*HJKnu*Un8onJzswWyzfGYyGobQMLnA6QUlhyckd6aPIZM4BSEk2Fze53Xzc9x*chOmxrW5Fb0rq6VyGiAy5jzYSVaK*jB+UJaS+cBjHqzvKlD6FQa5wnYnmxtL+U4YjH3MiGxOF9pdWp0U0z6IBog2yG+KmKaz9oB5kY3PDB2XWZ1bK3AmayPIOgXI9U4s0jkfmwbd3DYUznO5g+cY40Bs4EPCtHXlUzCsGwKf7DwHt5n8u+Zep3VTiVyHYsf5ZNrY6XL2*owGu5M6iMI34fvO*gwaFbInobaYJvp2njK7Jf2ybRzFOvQwzlvTinG*ZcDcCY8*4QYvroKPiBcKfmLF8S3++hZv4gXJhh+PQed0Fhh7wKe*6UluLwWxP6q15fWPSl6rvXJEd5GkkHdZtHYJVL8bsTU*VsCZ*mgxdA+Yc+wkA9MKv8lRn4H0gTt3vu0aTmDV3YORyTBYH8Hx1OZi7Jk6Qf7B+6U5R4B1SOvVc7yfGdb70glrpHj7djrdFNO66MN84ytn+dAflFDTIsQw0CtXHLVrAFyKaohb4MH7VaNc1B+dCcdygqH+f0PYwe+vnPRas*o8+8RJ8Alr93eWGKv91eh+Qv7yn0FnGiDY7oEGnY+7JO9S1Kbn*n41l+nzwgj+OwE72zbbT7f9ZKJrqObrNUQOYSVev+QDYVq06encGyUhqUPmRMP0AEvxNXREDr4e16UVcCZfqxNkxKkAP*hnF8uUa+clpwxD4HimsB7jgKTgWZjmEv5B6vhCivINiWqyZmH6+O7GEGF6bjGxNhh8BOs4Z9SecP8z1ZN*BxV*ewBK4IP5zVZOrTpzLK1OHLlt*v*BlhD83+TSYaWJGyWVTGNN1AU0CdJf*1dm*X3Sb8kvJBfI+tjCBumbpw+0AaYz1kQUQwl8x3p0ARsAsthKCRiOxgEcMTyJGMT*gQlDWK3L*bEqiCfoKYy6YLHp4R0WRjXgf*0IYw*77TcOfPXB00zIWmB33ejRw80tVwD6fKsyYHoahB4VFrj4AvVGJvIRm4TbZHuIYgYNN9D+ZYqw3RwBw9cObZob**V1AzmyohnRj0eodIUvP7xgEpABQCM5C7FgX3DWRA3rL3wkjgM7RbL1J4aT9TyVQLfdoq9TqRjUUADcZsGT+wJ6n5YArcp3Y*gBjxs8l0nFkf3sVHyRp9E3Wye1AxYQzYKwWKRvXIrxupllnVfREEMvfgmlV+fkaat4x38AzPbosS9Vl4hH3AJM0N72kk2z56yVR2LDvlgudmhUYuvmDkMVIry*tEpBCAuj*TZp5kxm0BJOTdH97yucF9Y4dww4T0z3NFxUx5SczdnVtQwW+QotmEcPm0NFLzkUVlAO9PKGXh8W2hZBXYUHCMHecB9S38Oq2RoT4ax33dLgQHVUjdFVk5BLkJC*g*M6gkmAlB02V44PDA+XvYiyj5iCsPUBOHV3+JLqUMRtwWveG*XDpIIYinmCJNv6xXfqxrzYrcFUgVfKaZoEMuYriHBdQvHwurFHdDF*bFonU12CGpWQhno6vsvjpB5sYK1Ba8Dq5IUw3oGQAN7weUcU0FaqUad*UBOjvdt9HeUi1Tet3a4SnqLp+tQQGGURVrZp4W7GuVrwaJDmSujhQbSt+*O*n0eG9qvwmNII6BAiAakXF55vdPdxidMuVAhOqQvkZS6JTQsf08a*CeYRLjMUVvcax53SqOAQxGqMazh+zJ2FkDWn1boV+ZLPIXq0w3vEw*+D08axgcASXSP+D6zzmZ9Knt+zffWYNKD9u*2scVpoaQmQv4N0kQrQkyXYX*sVh4SG6a7kjdzUAfQ6YLwlWGY*SR1Y0etW7C1ZMVvLtQkm7u9Pjcwn3VoZ5sYBx+vQL*XkrL*B4IcMmoWug9kJO8JCYJyec6Up9du510ngk4FGuE7smJqTWlhLjG*VM1CnRj0C6oecy5uIsKjgAkw0eNQaUK0GC+Phr8c3oNucPkhRItDMH11xxL6YzG91QbfFKixv0gIXLxHBev79o9u*JuiUHNU1MypYwzE220F5gQxNagZ0xJHQp3tWmDniMeN23X*Tv7OOGDvElJjxFj*oxkpFgYwBKRrcOz9oUiSQ4vqn7HrRCCKYTBDpz2J6tNXdgHLhtl0j8RsiE8+l5xaqR6moki1t8JGEUzzVsWYdCnnljPYUN*i9FITZK0Q+0toezy8PMNUkwsrWDSU2s9bTU1Fa7Zp6M0tAJNhfqzOQTWVk7Rr+XktuY+6pZqjhl4pN2aziQ6YNgNgGrQ*PyfKL0Fm3FvUUs5JkphuYoHlgA8Cf3zS*Cw7eDp8+hoQH9QXYzbI1Cy++eaUIOAKPW6JklIj*2gnqNbBpEdViW+utxTCMAFe6ArFSZb0hdppWk2BTPTsGjMDrC*Gni+oNL4PWxLkvfbbulJgUEdztrd5RLhRYIi4HQW2hI+ka+xjotjiAI9cqy3VLcoKwC7EQ*vq25jUZwxo517M03mw5+BqPPNfy*UqG26Nm2eYeFQZ+VvAWhaQIoYOfeYdpORAJJG0WolGqmsqh38vYO2CLVx2YghrlcufDbQFQ0A5r3+7YoOmZP5KVR6G17*OW6rfeLSOzlA88IqrWDtNJZVWByHC+dN5G*wnhggk9aw3STFCG*Zq3jRXSp9*UdB3znKnFQzHrvKSrkQALvUqAwHIupP5dpuZB+H1I3wtCc3w8Rl4YtS76JNQ31Q9at57IYsTA==",
+    "operation": "create",
+    "buyerCookie": "2dedaf93-a4ee-4d92-ae43-63664f7e2de5"
+  }
 };
    document.getElementById('text-input-value').value=JSON.stringify(json);
 }
